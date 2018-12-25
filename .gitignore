@@ -1,0 +1,5 @@
+.vscode
+__pycache__
+connect4.db
+.idea/*
+.idea
